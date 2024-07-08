@@ -1,6 +1,6 @@
 <h1 align="center">Free - Proxy</h1>
 
-<p align="center">获取全网免费代理IP库 | Free Proxy</p>
+<p align="center">获取全网免费代理IP地址 | Free Proxy</p>
 
 ***
 
@@ -25,7 +25,7 @@
 2.  安装依赖:
 
     ```
-    pip install *r requirements.txt
+    pip install -r requirements.txt
     ```
   
 3.  运行
@@ -36,11 +36,11 @@
 
 4.  结果
 
-    ![](/docs/imgs/result.png)
+    ![](./docs/imgs/result.png)
 
 5.  检查代理是否可用。将上一步获取的代理复制到 check_proxy.py 文件中，然后运行
 
-    ![](/docs/imgs/result02.png)
+    ![](./docs/imgs/result02.png)
 
 
 # 项目收集的代理网站
@@ -138,7 +138,7 @@
 仓库地址                                | 状态                   | 文件名 | url 示例
 --------------------------------------- | ---------------------- | ------ | --------
 https://github.com/a2u/free-proxy-list  | 到2024年，4年未更新了。| free-proxy-list.txt | https://raw.githubusercontent.com/a2u/free-proxy-list/main/free-proxy-list.txt
-https://github.com/parserpp/ip_ports/   | 到2024年，目前还在更新 |  proxyinfo.txt | https://raw.githubusercontent.com/parserpp/ip_ports/main/proxyinfo.txt
+https://github.com/parserpp/ip_ports/   | 到2024年，目前还在更新 | proxyinfo.txt | https://raw.githubusercontent.com/parserpp/ip_ports/main/proxyinfo.txt
 https://github.com/zevtyardt/proxy-list | 到2024年，目前还在更新 | all.txt、http.txt、socks4.txt、socks5.txt | https://raw.githubusercontent.com/zevtyardt/proxy-list/main/all.txt
 https://github.com/monosans/proxy-list  | 到2024年，目前还在更新 | http.txt、socks4.txt、socks5.txt | https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt
 
