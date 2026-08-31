@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Free - Proxy</h1>
 
 <p align="center">获取全网免费代理IP地址 | Free Proxy</p>
@@ -19,7 +21,7 @@
 1.  下载源码:
 
     ```
-    https://github.com/flepeng/free_proxy.git
+    https://github.com/flepeng/free-proxy.git
     ```
 
 2.  安装依赖:
@@ -229,4 +231,3 @@ https://github.com/monosans/proxy-list  | 到2024年，目前还在更新 | http
     *   https://www.beesproxy.com/free 首页不显示。
     *   https://proxylist.geonode.com/api/proxy-list? 没权限
     *   http://www.pachongdaili.com/free/freelist1.html。不更新了
-
